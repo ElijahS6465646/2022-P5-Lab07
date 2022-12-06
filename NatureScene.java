@@ -10,10 +10,10 @@ public class NatureScene extends Applet {
         MountainRange.drawMountainRange(g);
         MountainRange.drawMountainSnow(g);
 
-        Lake.drawShallow(g);
-        Lake.drawShallowRocks(g);
-        Lake.drawMurkyWater(g);
-        Lake.drawKelp(g);
+        Cloud.drawregularCloud(g);
+        Cloud.drawstormyCloud(g);
+        Cloud.drawstormierCloud(g);
+        Cloud.drawlightingCloud(g);
 
 
 

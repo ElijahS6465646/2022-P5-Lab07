@@ -4,7 +4,7 @@ import java.awt.*;
 public class Background {
     public static void drawSun(Graphics g){
         g.setColor(Color.yellow);
-        g.fillOval(1700,10,200,200);
+        g.fillOval(795,10,200,200);
 
     }
 
